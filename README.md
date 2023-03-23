@@ -3,7 +3,7 @@
 - **Autor:** Andrej Horacek (xhorac20)
 - **Dátum:** 2023-03-21
 
-## Návrh testovacích sád podľa zadania:
+## Návrh testovacích sád:
 
 1. Vyhľadávanie a nákup tovaru:
    **Súbor: search_and_purchase.feature**
